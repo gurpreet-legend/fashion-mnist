@@ -43,11 +43,3 @@ Contributions to this project are welcome. If you would like to contribute, plea
 ## Acknowledgments
 
 We would like to acknowledge the authors of the Fashion MNIST dataset for providing a valuable resource for the computer vision community.
-
-## References
-
-If you use this project or the Fashion MNIST dataset, consider citing the following references:
-
-- Han Xiao, Kashif Rasul, Roland Vollgraf. "Fashion-MNIST: a Novel Image Dataset for Benchmarking Machine Learning Algorithms." arXiv preprint arXiv:1708.07747 (2017).
-
-- [Fashion MNIST GitHub Repository](https://github.com/zalandoresearch/fashion-mnist)
